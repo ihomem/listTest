@@ -6,7 +6,7 @@ fruits =['avocados','bananas','oranges','grapes','mangos']
 
 vegetables = ['carrots','potatoes','onions','leeks','celery']
 
-inventory = ['shoes','socks','10 coins','spear','hammer','spanner','wood','books','phone']
+inventory = ['shoes','socks','10 coins','spear','hammer','spanner','books','phone']
 
 for i, value in enumerate(fruits):
     print(i, value)
